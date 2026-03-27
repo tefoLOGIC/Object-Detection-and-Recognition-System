@@ -1,1 +1,22 @@
+# YOLOv3 weights — too large for GitHub (download separately)
+model/yolov3.weights
+*.weights
 
+# Output videos and results
+OUTPUT VIDEOS/
+samples/output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
